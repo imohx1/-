@@ -119,9 +119,7 @@ footer {
 
 <body>
   <header>
-     <taple>
-    <th><a href="tvtc.edu.sa">الاسم : محمد الخزيم</a></th>
-  </taple>
+     <h1><a href="tvtc.edu.sa">الاسم : محمد الخزيم</a></h1>
   </header>
 
   <div class="container">
