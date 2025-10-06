@@ -119,7 +119,7 @@ footer {
 
 <body>
   <header>
-     <h1><a href="tvtc.edu.sa">الاسم : محمد الخزيم</a></h1>
+     <h1><a href="https://tvtc.gov.sa">جدولي الاسبوعي</a></h1>
   </header>
 
   <div class="container">
