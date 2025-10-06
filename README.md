@@ -3,9 +3,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>جدولي الاسبوعي</title>
-  <taple>
-    <th><a href="tvtc.edu.sa">الاسم : محمد الخزيم</a></th>
-  </taple>
   <link rel="stylesheet" href="style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap" rel="stylesheet" />
   <style>
@@ -122,7 +119,9 @@ footer {
 
 <body>
   <header>
-    <h1>جدول محمد الخزيم</h1>
+     <taple>
+    <th><a href="tvtc.edu.sa">الاسم : محمد الخزيم</a></th>
+  </taple>
   </header>
 
   <div class="container">
